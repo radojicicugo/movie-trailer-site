@@ -1,0 +1,150 @@
+
+
+.seo{
+  display: none;
+}
+.app-box{
+  background-color:rgb(54, 58, 58);
+
+}
+.head{
+  color: white;
+}
+.hr{
+  color:white;
+}
+.body-box{
+  display: inline-block;
+ 
+}
+.text{
+  font-size: 13px;
+}
+.text1{
+  font-size: 10px;
+}
+.footer{
+  color: white;
+}
+.br{
+  color:white;
+}
+
+.footer1{
+  color: black;
+}
+
+
+
+.card1{
+  background-image: url('img/babylon2.jpeg');
+  height: 260px;
+  background-repeat: no-repeat;
+}
+.card2{
+  background-image: url('img/luther1.jpeg');
+  background-repeat: no-repeat;
+  height: 260px;
+}
+.card3{
+  background-image: url('img/megan.jpg');
+  background-repeat: no-repeat;
+  height: 260px;
+}
+.card4{
+  background-image: url('img/johnny.jpg');
+  background-repeat: no-repeat;
+  height: 260px;
+}
+.card5{
+  background-image: url('img/magician.jpeg');
+  background-repeat: no-repeat;
+  height: 260px;
+}
+.card6{
+  background-image: url('img/boston.jpeg');
+  background-repeat: no-repeat;
+  height: 260px;
+  background-color: black;
+}
+.card7{
+  background-image: url('img/continental.jpg');
+  background-repeat: no-repeat;
+  height: 260px;
+}
+.card8{
+  background-image: url('img/jungie.jpg');
+  background-repeat: no-repeat;
+  height: 260px;
+}
+.card9{
+  background-image: url('img/front.jpg');
+  background-repeat: no-repeat;
+  height: 260px;
+}
+.card10{
+  background-image: url('img/wick.jpeg');
+  background-repeat: no-repeat;
+  height: 260px;
+  background-color: black;
+}
+.card11{
+  background-image: url('img/old.jpg');
+  background-repeat: no-repeat;
+  height: 260px;
+  background-color: black;
+}
+.card12{
+  background-image: url('img/rubikon2.jpg');
+  background-repeat: no-repeat;
+  height: 260px;
+  background-color: black;
+}
+.card13{
+  background-image: url('img/stranger.webp');
+  background-repeat: no-repeat;
+  height: 260px;
+  background-color: black;
+}
+.card14{
+  background-image: url('img/troll1.jpeg');
+  background-repeat: no-repeat;
+  height: 260px;
+  background-color: black;
+}
+.card15{
+  background-image: url('img/true_spirit.jpg');
+  background-repeat: no-repeat;
+  height: 260px;
+  background-color: black;
+}
+.card16{
+  background-image: url('img/magic.jpeg');
+  background-repeat: no-repeat;
+  height: 260px;
+  background-color: black;
+}
+.card17{
+  background-image: url('img/fortune.jpg');
+  background-repeat: no-repeat;
+  height: 260px;
+  background-color: black;
+}
+.card18{
+  background-image: url('img/legion.jpg');
+  background-repeat: no-repeat;
+  height: 260px;
+  background-color: black;
+}
+.card19{
+  background-image: url('img/strays.jpg');
+  background-repeat: no-repeat;
+  height: 260px;
+  background-color: black;
+}
+.card20{
+  background-image: url('img/ghost2.jpg');
+  background-repeat: no-repeat;
+  height: 260px;
+  background-color: black;
+}
